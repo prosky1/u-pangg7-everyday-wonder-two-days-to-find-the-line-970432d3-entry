@@ -1,0 +1,2 @@
+kit u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3 dev: verified 8 files
+makefun check: /home/hatch/workspace/make-fun/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3-entry is not in a git repository: run check inside your repository, name it with --repo, or pass --worktree to check the files as they are
