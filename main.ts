@@ -5,7 +5,7 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 
 const SENTENCE =
-  "The elevator doors opened on a stranger humming my mother's lullaby, and for one floor the building felt like home.";
+  "My reflection in the train window sat down a second before I did, and waited for me to catch up.";
 
 const OUTPUT_PATH = "/output/entry.txt";
 
